@@ -1,5 +1,16 @@
 # malloclab: writing a dynamic storage allocator
 
+
+## DISCLAIMER:
+
+ * The code contained in this file (mm.c) is my intellectual property and represents my own work.
+ * If you choose to use, modify, or reference this code in any way, you are required to give proper credit
+ * to me as the original author. By using this code, you agree to acknowledge my contribution wherever applicable.
+ *
+ * I am not liable for any academic or legal consequences that may arise from the unauthorized or improper use
+ * of this code. Please adhere to your institution's academic integrity policies.
+
+
 ## Introduction
 
 **IMPORTANT: You will be required to show a demo as part of this assignment. The demo will show 3 parts:**
