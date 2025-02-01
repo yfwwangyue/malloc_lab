@@ -1,10 +1,10 @@
 # malloclab: writing a dynamic storage allocator
 
 
-## ⚠️**IMPORTANT** Academic Integrity Disclaimer  
+## ⚠️ Academic Integrity Disclaimer  
 
 * This repository is intended for **reference and learning purposes only**. **Students are expected to complete their own work** in compliance with **Penn State’s academic integrity policies**. Copying or submitting this code as your own **may result in academic penalties**.
-* I am **not liable** for any academic or legal consequences that may arise from the unauthorized or improper use of this code. Please adhere to your institution's academic integrity policies.
+* I am **not liable** for any academic or legal consequences that may arise from the unauthorized or improper use of this code. If you choose to proceed, you do so at your own risk.
 
 
 ## ⚠️ Copyrights Statements  
