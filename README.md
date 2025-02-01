@@ -8,6 +8,7 @@ This repository is intended for **reference and learning purposes only**. **Stud
 
 ## ⚠️ Copyrights Statements  
 
+ * Timothy Zhu (timothyz@cse.psu.edu) is the lead person for this assignment.
  * The code contained in this file **(mm.c)** is **my intellectual property** and represents **my own work**.
  * If you choose to use, modify, or reference this code in any way, you are required to **give proper credit**
  * to me as the original author. By using this code, you agree to acknowledge my contribution wherever applicable.
