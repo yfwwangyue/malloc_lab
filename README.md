@@ -1,20 +1,17 @@
 # malloclab: writing a dynamic storage allocator
 
 
-## ⚠️ Academic Integrity Disclaimer  
+## ⚠️**IMPORTANT** Academic Integrity Disclaimer  
 
-This repository is intended for **reference and learning purposes only**. **Students are expected to complete their own work** in compliance with **Penn State’s academic integrity policies**. Copying or submitting this code as your own **may result in academic penalties**.  
+* This repository is intended for **reference and learning purposes only**. **Students are expected to complete their own work** in compliance with **Penn State’s academic integrity policies**. Copying or submitting this code as your own **may result in academic penalties**.
+* I am **not liable** for any academic or legal consequences that may arise from the unauthorized or improper use of this code. Please adhere to your institution's academic integrity policies.
 
 
 ## ⚠️ Copyrights Statements  
 
  * Timothy Zhu (timothyz@cse.psu.edu) is the lead person for this assignment.
  * The code contained in this file **(mm.c)** is **my intellectual property** and represents **my own work**.
- * If you choose to use, modify, or reference this code in any way, you are required to **give proper credit**
- * to me as the original author. By using this code, you agree to acknowledge my contribution wherever applicable.
- *
- * I am **not liable** for any academic or legal consequences that may arise from the unauthorized or improper use
- * of this code. Please adhere to your institution's academic integrity policies.
+ * If you choose to use, modify, or reference this code in any way, you are required to **give proper credit**to me as the original author. By using this code, you agree to acknowledge my contribution wherever applicable.
 
 
 ## Introduction
